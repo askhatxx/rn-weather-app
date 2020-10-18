@@ -1,6 +1,6 @@
-## Weather App (React Native)
+### Weather App (React Native)
 
-### Project setup
+#### Project setup
 ```
 npm install
 ```
@@ -10,4 +10,4 @@ npm install
 npm start
 ```
 
-Expo documentation [docs.expo.io](https://docs.expo.io/)
+#### Expo documentation [docs.expo.io](https://docs.expo.io/)
