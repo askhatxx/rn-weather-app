@@ -20,7 +20,7 @@ export default App;
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: 'green',
+    backgroundColor: '#5D0067',
     paddingTop: Platform.OS === 'android' ? StatusBar.currentHeight : 0
   }
 });
